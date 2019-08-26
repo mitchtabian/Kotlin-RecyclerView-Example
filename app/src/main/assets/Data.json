@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Congratulations!",
+    "body": "You made it to the end of the course!\r\n\r\nNext we'll be building the REST API!",
+    "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Congratulations-1.png",
+    "username": "mitch"
+  },
+  {
+  "title": "Time to Build a Kotlin App!",
+  "body": "The REST API course is complete. You can find the videos here: https://codingwithmitch.com/courses/build-a-rest-api/.\r\n\r\nNext I'll be building an app to interact with the REST API. If you don't want to build your own REST API, you can use the one I made here at open-api.xyz: https://open-api.xyz/api/\r\n\r\nTechnologies we'll be using: Kotlin, MVVM Architecture, Dagger2, Retrofit2, Coroutines, Room Persistence, REST API, Token Authentication",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/The_REST_API_is_Complete-Django_REST-framework_Setup.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Interviewing a Web Developer and YouTuber",
+  "body": "Justin has been producing online courses for YouTube, Udemy, and his website CodingForEntrepreneurs.com for over 5 years.\r\n\r\nRight now Justin mainly focuses on web development with Python, Django, React, Angular, Html, css, Bootstrap and Javascript. He also has content on Machine Learning and AI.\r\n\r\nI think of Justin as a mentor, teacher, and peer. An odd combination. He's a mentor because he's been producing online content for a longer time than me and has great insights. A teacher because he was the one I learned web development from. And a peer because we're both online content creators.\r\n\r\nJustin and I talk about:\r\n\r\nHis life as an \"Entrepreneur first, programmer out of necessity\"\r\nHis experiences learning to program and what gave him the confidence to get started\r\nPersonal business successes and failures\r\nHow he got started programming\r\nThe exciting time we live in regarding software development and how it empowers people to do incredible things\r\nHis experiences with students, answering questions and inspiring others to learn software development",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Interviewing_a_Web_Developer_and_YouTuber-Justin_Mitchel_2018.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Engineered Truth - Matt Tran",
+  "body": "Matt has been a full-time YouTuber for 7 years now. He's the creator of the YouTube channel \"Engineered Truth\". But these days, that's not all he does.\r\n\r\nMatt and I talk about:\r\n\r\nHis life as an Entrepreneur and YouTuber\r\nHis experiences becoming a YouTuber and how it all got started\r\nSome of his \"big breaks\" in terms of developing his content-creating skills\r\nPersonal business experiences\r\nHis other business ventures (Remotise.com and MinuteCut)\r\nHow he got started on YouTube\r\nHis thoughts on getting a college education (is it worth it)\r\nRelationships (business and personal)\r\nHis experiences with mentoring, and being mentored himself\r\nWhat he does for fun\r\nMatt's a cool guy. I enjoyed the interview and hope to spend time with him in the future.",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Interviewing_a_YouTube_Influence_and_Entrepreneur-engineered_truth_YT.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Freelance Android Developer (Vasiliy Zukanov)",
+  "body": "Vasiliy has been a freelance android developer for several years. He also has some of the best android development courses I've had the pleasure of taking on Udemy.com. I've watch his Dagger course and his Unit Testing course.",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Freelance_Android_Developer_Vasiliy_Zukanov-Vasiliy_Livestream.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Freelance Android Developer, Donn Felker",
+  "body": "Freelancing as an Android developer with Donn Felker.\r\n\r\nDonn is also:\r\n\r\n1) Founder of caster.io\r\n\r\n2) Co-host of the fragmented podcast (fragmentedpodcast.com)\r\n\r\n3) Author of several books (Android Application Development For Dummies)\r\n\r\n4) A speaker\r\n\r\n5) A remote-work advocate\r\n\r\n\r\n\r\nDonn's links:\r\n\r\nhttps://www.donnfelker.com\r\n\r\nhttps://twitter.com/donnfelker\r\n\r\nhttps://caster.io/\r\n\r\nhttps://fragmentedpodcast.com",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Freelance_Android_Developer_Donn_Felker-donn_felker_1.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Work Life Balance for Software Developers",
+  "body": "What kind of hobbies do software developers have? It sounds like many software developers don't have a lot of hobbies and choose to focus on work. Is that a good idea?",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Work_Life_Balance_for_Software_Developers-work_life_balance.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Full Stack Web Developer - Nicholas Olsen",
+  "body": "In this podcast I interviewed the Fullsnack Developer (AKA Nicholas Olsen).\r\n\r\nNicholas is many things. What I mean by that is, he's good at many things.\r\n\r\n1. He’s an entrepreneur\r\n\r\n2. Web developer\r\n\r\n3. Artist\r\n\r\n4. Graphic designer\r\n\r\n5. Musician (drums)\r\n\r\n6. Professional BodyBuilder\r\n\r\n7. And SkateBoarder\r\n\r\n\r\n\r\nWe talk about:\r\n\r\n1. His journey to become a programmer\r\n\r\n2. What he took in school\r\n\r\n3. How he got his first programming job\r\n\r\n4. What programming languages he knew when he got his job\r\n\r\n5. How and when he started his two companies (TAPA Creative and the ATRIUM)\r\n\r\n6. His partnerships with other companies\r\n\r\n7. Creativity and his creative process\r\n\r\n8. The concept of “double-dipping” with respect to entrepreneurship\r\n\r\n9. Productivity and how to stay ultra-productive\r\n\r\n10. How to enjoy your time off and forget about work\r\n\r\n11. Removing things that don’t add value to your life\r\n\r\n12. How to convert web development customers better\r\n\r\n13. Web development pricing\r\n\r\n14. Programmer tools\r\n\r\nI really enjoyed the interview. I’m looking forward to seeing what companies Nicholas starts in the next few years.",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Full_Stack_Web_Developer_-_Nicholas_Olsen-Fullsnack_developer.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Javascript Expert - Wes Bos",
+  "body": "Interviewing a web developer, javascript expert, entrepreneur, freelancer, podcaster, and much more.",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Javascript_Expert_-_Wes_Bos-wes_bos.png",
+  "username": "mitch"
+  },
+  {
+  "title": "Senior Android Engineer - Kaushik Gopal",
+  "body": "Kaushik Gopal is a Senior Android Engineer working in Silicon Valley.\r\n\r\nHe works as a Senior Staff engineer at Instacart.\r\n\r\nInstacart: https://www.instacart.com/\r\n\r\nFragmented Podcast: https://fragmentedpodcast.com/\r\n\r\nKaushik's website: https://kaush.co/\r\n\r\ntwitter: https://twitter.com/kaushikgopal",
+  "image": "https://nyc3.digitaloceanspaces.com/open-api-spaces/open-api-static/blog/1/Senior_Android_Engineer_-_Kaushik_Gopal-silicon_valley_engineer.png",
+  "username": "mitch"
+  }
+]
