@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.layout_blog_list_item.view.*
 import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
 import com.codingwithmitch.kotlinrecyclerviewexample.models.BlogPost
 import kotlin.collections.ArrayList
 
@@ -53,7 +54,13 @@ class BlogRecyclerAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>()
         val blog_author = itemView.blog_author
 
         fun bind(blogPost: BlogPost){
+
+            val requestOptions = RequestOptions()
+                .placeholder(R.drawable.ic_launcher_background)
+                .error(R.drawable.ic_launcher_background)
+
             Glide.with(itemView.context)
+                .applyDefaultRequestOptions(requestOptions)
                 .load(blogPost.image)
                 .into(blog_image)
             blog_title.setText(blogPost.title)
