@@ -14,8 +14,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        convertJsonToBlogPosts(JSONArray(getDataFromAssets()))
+        val data = convertJsonToBlogPosts(JSONArray(getDataFromAssets()))
     }
+
+
 
     fun convertJsonToBlogPosts(jsonArray: JSONArray): ArrayList<BlogPost>{
         val list = ArrayList<BlogPost>()
