@@ -5,6 +5,8 @@ import com.codingwithmitch.kotlinrecyclerviewexample.models.BlogPost
 class DataSource{
 
     companion object{
+        
+        //comments from local account
 
         fun createDataSet(): ArrayList<BlogPost>{
             val list = ArrayList<BlogPost>()
